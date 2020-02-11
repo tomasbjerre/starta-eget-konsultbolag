@@ -32,6 +32,8 @@ Du kan **åka på vilken konferens du vill** och låta bolaget betala. Det finns
 
 Jag tycker att de flesta möten är meningslösa och väldigt tråkiga. Det blir klart **färre möten** med eget bolag. Du kan spendera din tid med kunden istället för tråkiga månadsmöten =)
 
+Som egenkonsult har du **ingen flextidsbank** utan kan du fakturera en timme eller inte. Detta blir tydligast om du har avtal med en kund om att jobba 40h/vecka åt dem. Går du hem en timme tidigare så fakturerar du en timme mindre den dagen. Jobbar du en timme längre så fakturerar du en timme mer. OBS! Så fort du tror att kommer att jobba och därmed fakturera mer än avtalat så bör du skaffa ett skriftligt OK från kunden, för det påverkar hens budget!
+
 Du kan få **mindre administrativt jobb**. Som anställd hade jag kvitton att rapportera varje vecka. Jag köpte tågbiljetter via SJ:s hemsida och fick alltså kvittot som PDF. Jag var tvungen att rapporera dem varje vecka med kostnad och moms. Skriva ut ett papper i samband med tidrapportering. Skriva ut mina kvitton. Häffta fast mina kvitton på pappret från tidrapporteringssystemet. Leta upp kuvert samt frimärke. Leta upp brevlåda och posta kuvert med tidrapporten till konsultbolagets kontor. Som egen lägger jag aldrig mer än 2 timmar totalt under en hel månad på att sköta den fullständiga bokföring inklusive alla kvitton. Allt gör jag digitalt.
 
 Till sist, och kanske det absolut bästa argumentet. Jag har **alltid sett mig själv som mitt eget varumärke**. Då är ju inte steget långt till att faktiskt vara det också.
