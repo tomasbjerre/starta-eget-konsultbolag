@@ -1,4 +1,4 @@
-När jag, [@tomasbjerre](https://github.com/tomasbjerre), startade mitt aktiebolag och började konsulta, skrev jag en [blog-post](https://bjurr.com/starta-eget-konsultbolag/) om det. Det här är en migrering av blog-posten till en sida med information om detta ämne. Där alla kan bidra via Github.
+När jag, [@tomasbjerre](https://github.com/tomasbjerre), startade mitt aktiebolag och började konsulta, skrev jag en [blog-post](https://bjurr.com/starta-eget-konsultbolag/) om det. Det här är en migrering av blog-posten till en sida med information om detta ämne. Där alla kan bidra via GitHub.
 
 # Starta Eget Konsultbolag
 
@@ -14,11 +14,11 @@ Du kan **skatteplanera**. Om du redan innan året är slut vet [gräns för stat
 
 Utöver lönen kan du också göra en **utdelning**. Då skattar du 20% på summan upp till `2.75` gånger föregående års _inkomstbasbeloppet_ för `2018` blir det `2.75 * 59300 = 163075`. Det är det som kallas förenklingsregeln. Man kan också räkna fram en gräns, som är hälften av utbetald lön, och använda den om den är mer fördelaktig. [Den här blog-posten](https://www.foretagande.se/sa-beraknas-skatt-pa-utdelning-3-12-reglerna/) beskriver detta bra. Första året kan du eventuellt inte använda förenklingsregeln, de diskuterar det i [den här tråden](https://forum.vismaspcs.se/visma_spcs/topics/utdelning-forsta-aret).
 
-Jag har gjort [ett excel-ark](/skatteplanering.xlsx) för att **optimera skatten**. Skatteverket har även [en sida](https://www.skatteverket.se/privat/sjalvservice/allaetjanster/tjanster/raknautdinskatt.4.18e1b10334ebe8bc80001950.html) där man kan räkna ut sin skatt. Du kan även läsa mer om [skatter och avgifter](https://www.verksamt.se/starta/skatter-och-avgifter/aktiebolag) på Verksamt. Se även [den här sidan](http://www.driva-eget.se/kalkyler/lonekalkyl) för att få en uppfattning om hur mycket lön man kan ta ut.
+Jag har gjort [ett Excel-ark](/skatteplanering.xlsx) för att **optimera skatten**. Skatteverket har även [en sida](https://www.skatteverket.se/privat/sjalvservice/allaetjanster/tjanster/raknautdinskatt.4.18e1b10334ebe8bc80001950.html) där man kan räkna ut sin skatt. Du kan även läsa mer om [skatter och avgifter](https://www.verksamt.se/starta/skatter-och-avgifter/aktiebolag) på Verksamt. Se även [den här sidan](http://www.driva-eget.se/kalkyler/lonekalkyl) för att få en uppfattning om hur mycket lön man kan ta ut.
 
 Det finns anledning att vara rädd för det faktum att man inte får några pengar alls om man inte har ett uppdrag. Men eget bolag kan du använda en [periodiseringsfond](https://www.skatteverket.se/foretag/drivaforetag/foretagsformer/aktiebolag/periodiseringsfond.4.4887341d16e1e2b8ddf30e.html) där du lägger undan pengar mellan räkenskapsår. Du kan alltså optimera din lön för att slippa statlig skatt, lägga undan pengar i en periodiseringsfond och sedan betala ut dem ett år då du har mindre inkomster. På så vis slipper du både bolagsskatten och statlig inkomstskatt.
 
-Du är **säkrare som egen**. Bolaget kommer förmodligen att dra in mer pengar än vad som är lämpligt att direkt batala ut som lön. Får du 500kr/timme (ett väldigt lågt pris!) så drar du in cirka 80 000kr under en månad. Då kan du betala 60 000kr i lön. Men du vill förmodligen bara betala ut 40 891kr eftersom det är gränsen för statlig skatt (gränsen för statlig skatt från 2019 är 490 700 kr/år). Att betala den lönen kostar cirka 48 000kr för bolaget och du har alltså 32 000kr kvar i bolaget. Gör du det varje månad har du 384 000kr kvar i bolaget när räkenskapsåret är slut. Du vill förmodligen använda en del för att göra en utdelning. Men för att jämföra med att vara anställd så skulle du kunna betala ut samma lön 6 månader in på nästa år, trots att du står helt utan inkomster! För att räkna ut hur mycket lön du kan betala ut kan du alltså räkna såhär `timpenning * (52 - semesterveckor) * 40 / 12 / 1.31` så kanske `500 * (52 - 6) * 40 / 12 / 1.31 = 58 524`.
+Du är **säkrare som egen**. Bolaget kommer förmodligen att dra in mer pengar än vad som är lämpligt att direkt betala ut som lön. Får du 500kr/timme (ett väldigt lågt pris!) så drar du in cirka 80 000kr under en månad. Då kan du betala 60 000kr i lön. Men du vill förmodligen bara betala ut 40 891kr eftersom det är gränsen för statlig skatt (gränsen för statlig skatt från 2019 är 490 700 kr/år). Att betala den lönen kostar cirka 48 000kr för bolaget och du har alltså 32 000kr kvar i bolaget. Gör du det varje månad har du 384 000kr kvar i bolaget när räkenskapsåret är slut. Du vill förmodligen använda en del för att göra en utdelning. Men för att jämföra med att vara anställd så skulle du kunna betala ut samma lön 6 månader in på nästa år, trots att du står helt utan inkomster! För att räkna ut hur mycket lön du kan betala ut kan du alltså räkna såhär `timpenning * (52 - semesterveckor) * 40 / 12 / 1.31` så kanske `500 * (52 - 6) * 40 / 12 / 1.31 = 58 524`.
 
 Du väljer själv om du vill betala in till en **tjänstepension** och i så fall vilken. Jag har tvingats betala till SEB under en längre tid. Det enda jag bryr mig om är deras fondutbud. I SEB hittade jag bara en fond, en räntefond, som kändes "ok". Det är även en fördel att du kan maximera lönen, göra utdelning och om det efter detta fortfarande finns pengar över kan du använda dem till tjänstepension. Du slipper alltså låsa in pengar i en sådan pension om det inte är så att det är en skattemässig fördel. Med tanke på att du, via utdelning, kan få ut kapital med en skatt på under 40% så kanske du inte vill använda en tjänstepension. Pengarna du får ut via utdelningen är ju helt olåsta och du kan investera hur du vill.
 
@@ -34,7 +34,7 @@ Jag tycker att de flesta möten är meningslösa och väldigt tråkiga. Det blir
 
 Som egenkonsult har du **ingen flextidsbank** utan kan du fakturera en timme eller inte. Detta blir tydligast om du har avtal med en kund om att jobba 40h/vecka åt dem. Går du hem en timme tidigare så fakturerar du en timme mindre den dagen. Jobbar du en timme längre så fakturerar du en timme mer. OBS! Så fort du tror att kommer att jobba och därmed fakturera mer än avtalat så bör du skaffa ett skriftligt OK från kunden, för det påverkar hens budget!
 
-Du kan få **mindre administrativt jobb**. Som anställd hade jag kvitton att rapportera varje vecka. Jag köpte tågbiljetter via SJ:s hemsida och fick alltså kvittot som PDF. Jag var tvungen att rapporera dem varje vecka med kostnad och moms. Skriva ut ett papper i samband med tidrapportering. Skriva ut mina kvitton. Häffta fast mina kvitton på pappret från tidrapporteringssystemet. Leta upp kuvert samt frimärke. Leta upp brevlåda och posta kuvert med tidrapporten till konsultbolagets kontor. Som egen lägger jag aldrig mer än 2 timmar totalt under en hel månad på att sköta den fullständiga bokföring inklusive alla kvitton. Allt gör jag digitalt.
+Du kan få **mindre administrativt jobb**. Som anställd hade jag kvitton att rapportera varje vecka. Jag köpte tågbiljetter via SJ:s hemsida och fick alltså kvittot som PDF. Jag var tvungen att rapportera dem varje vecka med kostnad och moms. Skriva ut ett papper i samband med tidrapportering. Skriva ut mina kvitton. Häfta fast mina kvitton på pappret från tidrapporteringssystemet. Leta upp kuvert samt frimärke. Leta upp brevlåda och posta kuvert med tidrapporten till konsultbolagets kontor. Som egen lägger jag aldrig mer än 2 timmar totalt under en hel månad på att sköta den fullständiga bokföring inklusive alla kvitton. Allt gör jag digitalt.
 
 Till sist, och kanske det absolut bästa argumentet. Jag har **alltid sett mig själv som mitt eget varumärke**. Då är ju inte steget långt till att faktiskt vara det också.
 
@@ -58,9 +58,9 @@ Jag valde **räkenskapsåret** som `0101 - 1231`. Jag kan dock rekommendera brut
 
 När du startar aktiebolag ska bolaget ha **F-skatt** och du som privatperson har A-skatt. Jag valde **kvartalsmoms**. Som redovisningsmetod valde jag **[kontantmetoden](https://www.e-conomic.se/bokforingsprogram/ordlista/kontantmetoden)** (kallas även bokslutsmetoden). Jag uppfattade den som enklast, se hur man [bokför köpt med kreditkort](https://forum.vismaspcs.se/visma_spcs/topics/bokfora-inkop-med-kreditkort-i-visma-eekonomi) t.ex.
 
-Det är väldigt svårt att uppskatta den **förväntade vinsten** första året. Andra året kommer Skatteverket föreslå en. Ett tips är att ange den lågt. I mitt fall skulle jag först betala in 20 000 kr innan jag hunnit få en enda inkomst i bolaget. Skulle du råka ut för det är det bara att göra en ny preliminär inkomstdeklaration via Skatteverket och ange en lägre förväntad vinst. Då fick jag ner denna siffran till 7 000 kr istället.
+Det är väldigt svårt att uppskatta den **förväntade vinsten** första året. Andra året kommer Skatteverket föreslå en. Ett tips är att ange den lågt. I mitt fall skulle jag först betala in 20 000 kr innan jag hunnit få en enda inkomst i bolaget. Skulle du råka ut för det är det bara att göra en ny preliminär inkomstdeklaration via Skatteverket och ange en lägre förväntad vinst. Då fick jag ner denna siffra till 7 000 kr istället.
 
-Det finns många smidiga **bokföringsprogram**. [Redovisningen](https://sv.wikipedia.org/wiki/Redovisning) var nog det jag var mest rädd för i början. Jag märkte tidigt att när jag googlade om hur man bokför olika saker så kom jag ofta in på [Visma:s support forum](https://forum.vismaspcs.se/visma_spcs). Jag har tidigare använt deras tidrapportering, PX, vilket suger något helt otroligt. Ser ut som en sommarjobbare hackade ihop det för 15 år sedan och att man inte rört det sedan dess. Men även om jag var väldigt skeptisk till detta bolag så valde jag ändå [Visma eEkonomi](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi?pixid=15282) för bokföring just för att deras support verkar vara helt exemplarisk. Att direkt bokföra ett kvitto i [Visma eEkonomi](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi?pixid=15282) är betydligt enklare än det jag tidigare gjort via tidrapportering som anställd. Du kanske t.ex. vill bokföra [bokföringsprogrammet](https://forum.vismaspcs.se/visma_spcs/topics/8fxz374h0czze?topic-reply-list%5Bsettings%5D%5Bfilter_by%5D=all), [köp av dator och försäkring](https://forum.vismaspcs.se/visma_spcs/topics/7h3lv4csqal8w) eller [köp av tågbiljett](https://forum.vismaspcs.se/visma_spcs/topics/con2lpq5fex2f). De [gör t.o.m. filmer](https://www.youtube.com/watch?v=jGgnxd6uBh4) där de visar vissa flöden. Hoppas jag är trovärdig trots att jag gått med i deras affiliate-program och får betalt för att hänvisa andra dit =)
+Det finns många smidiga **bokföringsprogram**. [Redovisningen](https://sv.wikipedia.org/wiki/Redovisning) var nog det jag var mest rädd för i början. Jag märkte tidigt att när jag googlade om hur man bokför olika saker så kom jag ofta in på [Vismas supportforum](https://forum.vismaspcs.se/visma_spcs). Jag har tidigare använt deras tidrapportering, PX, vilket suger något helt otroligt. Ser ut som en sommarjobbare hackade ihop det för 15 år sedan och att man inte rört det sedan dess. Men även om jag var väldigt skeptisk till detta bolag så valde jag ändå [Visma eEkonomi](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi?pixid=15282) för bokföring just för att deras support verkar vara helt exemplarisk. Att direkt bokföra ett kvitto i [Visma eEkonomi](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi?pixid=15282) är betydligt enklare än det jag tidigare gjort via tidrapportering som anställd. Du kanske t.ex. vill bokföra [bokföringsprogrammet](https://forum.vismaspcs.se/visma_spcs/topics/8fxz374h0czze?topic-reply-list%5Bsettings%5D%5Bfilter_by%5D=all), [köp av dator och försäkring](https://forum.vismaspcs.se/visma_spcs/topics/7h3lv4csqal8w) eller [köp av tågbiljett](https://forum.vismaspcs.se/visma_spcs/topics/con2lpq5fex2f). De [gör t.o.m. filmer](https://www.youtube.com/watch?v=jGgnxd6uBh4) där de visar vissa flöden. Hoppas jag är trovärdig trots att jag gått med i deras affiliate-program och får betalt för att hänvisa andra dit =)
 
 [![Visma eEkonomi](/affiliate-2014-vismaeekonomi1_728x90_eeko.gif)](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi?pixid=15282)
 
@@ -111,7 +111,7 @@ Jag har lagt in återkommande händelser i Google Calendar för de olika datumen
 - En gång per år.
 
   - Bokslut, årsredovisning, deklaration.
-  - I januari skickar in kontrolluppgit
+  - I januari skickar in kontrolluppgift
     - Av utbetald lön för föregående år till Skatteverket.
     - Av föregående års utdelning (KU31).
   - Lämnar K10 i privata deklarationen, om utdelning mottagits under året som deklareras.
@@ -119,9 +119,9 @@ Jag har lagt in återkommande händelser i Google Calendar för de olika datumen
 Jag valde **kvartalsmoms**, alltså att jag efter varje kvartal redovisar och betalar in eventuell moms. Mer information om det finns här. Så fort kvartalet är slut kan man lämna in deklarationen. Man har ungefär 1.5 månad på sig att lämna in den. Även för detta har Visma gjort en film som visar [hur du gör i eEkonomi](https://www.youtube.com/watch?v=gPv_SahMnEw). Som jag förstår det använder man kontot 1630 (eller 2012 om det är enskild firma) just för att [alla händelser mot Skatteverket ska gå via detta konto](https://forum.vismaspcs.se/visma_spcs/topics/maste-man-anvanda-sig-av-skattekontot-1630). Hur det fungerar med att betala, och få tillbaka moms, [beskriver Skatteverkets här](https://www.skatteverket.se/foretagochorganisationer/moms/deklareraochbetalamoms/betalaochfatillbakamoms.4.58d555751259e4d66168000354.html). Så kortfattat om du har [Visma eEkonomi](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi?pixid=15282) och kvartalsmoms så ska du vid varje kvartalsslut:
 
 - Skapa en momsredovisning för kvartalet via bokföring / momsredovisning.
-- Ladda ner eskd-filen.
-- Skapa en momsdeklaration enligt Visma:s video.
-- Ladda upp eskd-filen hos Skatteverket.
+- Ladda ner eSKD-filen.
+- Skapa en momsdeklaration enligt Vismas video.
+- Ladda upp eSKD-filen hos Skatteverket.
 - Ladda ner transaktioner från Skatteverket till ditt skattekonto och matchar dem sedan mot momshändelsen i dina bokföringshändelser.
 - När du senare betalat in, eller fått betalt, skapa och bokför bankhändelsen på företagskontot. Det visas i slutet på den här videon. Tänk på att använda 1630 för AB och 2012 för enskild firma.
 
@@ -138,8 +138,8 @@ Skatteverket har skickat brev till dig med datum då du ska betala **debiterad p
 
 När du ska betala ut **Lön** behöver du betala _skatt, arbetsgivaravgift_ samt själva _lönen_. Både _skatt_ och _arbetsgivaravgift_ betalas till företagets _skattekonto_ så det är 2 betalningar som behöver göras från företagskontot. Om du använder [Visma eEkonomi](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi?pixid=15282) kan du göra såhär. Finns även en [film här](https://www.youtube.com/watch?v=ig2C9gQg2Eg) och en [bra tråd](https://forum.vismaspcs.se/visma_spcs/topics/bokfora-lon-i-eekonomi) om detta i supportforumet.
 
-- Under lön i huvudnenyn väljer du anställda. Lägg upp den anställde. Du kommer behöva Skattetabell att använda. Den anställde kan [logga in](https://www.skatteverket.se/) hos Skatteverket och hittar då skattetabell under "Skatter och deklarationer".
-- Under lön i huvudnenyn väljer du lönebesked och skapar ett nytt.
+- Under lön i huvudmenyn väljer du anställda. Lägg upp den anställde. Du kommer behöva Skattetabell att använda. Den anställde kan [logga in](https://www.skatteverket.se/) hos Skatteverket och hittar då skattetabell under "Skatter och deklarationer".
+- Under lön i huvudmenyn väljer du lönebesked och skapar ett nytt.
 - Ange lönen och välj bokför.
 - Logga in på banken och betala ut lönen, efter skatt, till den anställdes konto.
 - Importera bankhändelsen till företagskontot via kassa och bankhändelser.
@@ -161,11 +161,11 @@ När du ska betala ut **Lön** behöver du betala _skatt, arbetsgivaravgift_ sam
   - Importera bankhändelsen från Skatteverket (du kan exportera den till fil) till skattekontot i [Visma eEkonomi](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi?pixid=15282)
   - Matcha bankhändelsen på företagskontot mot händelsen på skattekontot. Egen kontering mellan egna bankkonton.
   - När pengarna dragits av Skatteverket från Skattekontot, importera den händelsen.
-  - Matcha händelsen mot bokföringsförslaget arbetsgivardeklaration. Skatteverkat drar arbetsgivardeklartionen i 2 transaktioner, du behöver [manuellt slå ihop](https://forum.vismaspcs.se/visma_spcs/topics/hur-matchar-jag-tva-belopp-pa-skattekontot-mot-en-arbetsgivardeklaration) dem för att kunna använda det här bokföringsföslaget. Men annars är det 1630 som krediteras och 2710 (personalskatt) samt 2731 (arbetsgivaravgift) som debiteras. Jag tycker även [den här sidan](https://www.blinfo.se/foretagskunskap/bokfora-lon__15472) är bra här.
+  - Matcha händelsen mot bokföringsförslaget arbetsgivardeklaration. Skatteverket drar arbetsgivardeklarationen i 2 transaktioner, du behöver [manuellt slå ihop](https://forum.vismaspcs.se/visma_spcs/topics/hur-matchar-jag-tva-belopp-pa-skattekontot-mot-en-arbetsgivardeklaration) dem för att kunna använda det här bokföringsförslaget. Men annars är det 1630 som krediteras och 2710 (personalskatt) samt 2731 (arbetsgivaravgift) som debiteras. Jag tycker även [den här sidan](https://www.blinfo.se/foretagskunskap/bokfora-lon__15472) är bra här.
 
 [Visma eEkonomi](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi?pixid=15282) har en färdig mall för **fakturor**. Du anger ditt företags bankgiro, och/eller kontonummer, lägger upp kunder och artiklar. Sedan kan du enkelt skapa fakturor som du sedan kan skriva ut, spara som PDF eller maila.
 
-Om du **betalar ut traktamente** behöver du kunna bevisa att [resorna ägt rum och varit tjänsteresor](https://www.vismaspcs.se/visma-support/visma-eget-aktiebolag/content/skattefria_traktamenten.htm). Därför kan det vara klokt att föra anteckningar för resor. I mitt fall åker jag alltid tåg och kommer hänvisa till tågbiljetterna om jag får revision av Skatteverket. Jag skapar exceldokument, med uträkningen, som jag sedan exporterar till PDF och sparar för att motivera traktamentet.
+Om du **betalar ut traktamente** behöver du kunna bevisa att [resorna ägt rum och varit tjänsteresor](https://www.vismaspcs.se/visma-support/visma-eget-aktiebolag/content/skattefria_traktamenten.htm). Därför kan det vara klokt att föra anteckningar för resor. I mitt fall åker jag alltid tåg och kommer hänvisa till tågbiljetterna om jag får revision av Skatteverket. Jag skapar Excel-dokument, med uträkningen, som jag sedan exporterar till PDF och sparar för att motivera traktamentet.
 
 ![Traktamente](/traktamente-utr.png)
 
@@ -186,7 +186,7 @@ När räkenskapsåret är slut ska **kontrolluppgifter** för anställda skickas
 - Klicka på Ny kontrolluppgift.
 - Fyll i dina uppgifter.
 - Spara.
-- Nu kan man ladda ner en xml-fil som kan laddas upp hos Skatteverket för att fylla i KU10-blanketten.
+- Nu kan man ladda ner en XML-fil som kan laddas upp hos Skatteverket för att fylla i KU10-blanketten.
 
 Visma har en väldigt bra [gratis broschyr om bokföring](http://download.vismaspcs.se/pdf/bokf%C3%B6ring-f%C3%B6r-nyb%C3%B6rjare.pdf?utm_source=Eloqua&utm_medium=email&utm_content=SE_SP_SI_Onboarding-eEko-Std-4&utm_campaign=SE_SP_SI_Onboarding-eA-Std-1704).
 
@@ -200,4 +200,4 @@ Jag valde först att ta över kontraktet jag var på och då gå från anställd
 
 Har du frågor om skatter så är det smidigt att man kan [maila Skatteverket](https://www.skatteverket.se/omoss/kontaktaoss/mejla/).
 
-Jag har skapat en facebook-grupp för att diskutera det här, går gärna med! https://www.facebook.com/groups/starta.eget.konsultbolag/
+Jag har skapat en Facebook-grupp för att diskutera det här, går gärna med! https://www.facebook.com/groups/starta.eget.konsultbolag/
