@@ -1,5 +1,3 @@
-När jag, [@tomasbjerre](https://github.com/tomasbjerre), startade mitt aktiebolag och började konsulta, skrev jag en [blog-post](https://bjurr.com/starta-eget-konsultbolag/) om det. Det här är en migrering av blog-posten till en sida med information om detta ämne. Där alla kan bidra via GitHub.
-
 # Starta Eget Konsultbolag
 
 Efter över 7 år som anställd konsult (mjukvaruutvecklare) valde jag nyligen att starta eget aktiebolag. Jag gör precis samma sak nu som jag gjorde som anställd men numera i mitt eget bolag istället. Det här inlägget handlar om hur jag gjorde detta. Googlar man kring att starta eget så hittar man mycket. Men jag saknade någon som beskriver det utifrån mina förutsättningar, det är vad jag försöker göra här, eftersom jag tror att många har samma förutsättningar som mig. **Oh, and sorry if you don't speak Swedish =) The topic is about starting your own company in Sweden, you are probably not interested.**
