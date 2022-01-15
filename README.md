@@ -4,7 +4,7 @@ Efter över 7 år som anställd konsult (mjukvaruutvecklare) valde jag nyligen a
 
 Ska också säga att allt jag tagit reda på här är genom googling och jag tar inget ansvar för att det jag säger här är korrekt och riktigt! Så var kritisk när du läser vad jag skriver nedan!
 
-Jag blir ofta kontaktad angående det här blogginlägget, men jag vill gärna hålla diskussionerna öppet här istället: https://www.facebook.com/groups/starta.eget.konsultbolag/
+Jag blir ofta kontaktad angående det här blogginlägget, men jag vill gärna hålla diskussionerna öppet här istället: [https://www.facebook.com/groups/starta.eget.konsultbolag/](https://www.facebook.com/groups/starta.eget.konsultbolag/)
 
 # Varför Starta Eget?
 
