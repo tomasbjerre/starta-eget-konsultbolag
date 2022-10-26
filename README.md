@@ -68,7 +68,7 @@ Jag valde att kontakta en **redovisningskonsult** som hjälper mig med ekonomisk
 
 Revisor är valfritt om man [omsätter under 3 miljoner](http://www.bolagsverket.se/ff/foretagsformer/aktiebolag/starta/revisor). Det använder jag inte.
 
-Det kan också vara bra att ha klart för sig **hur man hittar kunder**. Det finns många rena konsultmäklare som tar en procentsats, ofta mellan 10-20% på din timpenning, om du tar ett uppdrag via dem. De har ofta ramavtal med stora konsultköpare. Är du redan anställd som konsult kanske du, i början, fortsätter med samma kund fast som underkonsult istället. Jag valde [Kvadrat](http://www.kvadrat.se/) och var väldigt nöjd med det. Men annars kan jag rekommendera [Anna Lejon](https://annaleijon.se/) som har en [bra lista på konsultmäklare här](https://annaleijon.se/lista-pa-konsultmaklare-i-stockholm.html).
+Det kan också vara bra att ha klart för sig **hur man hittar kunder**. Det finns många rena konsultmäklare som tar en procentsats, ofta mellan 10-20% på din timpenning, om du tar ett uppdrag via dem. De har ofta ramavtal med stora konsultköpare. Är du redan anställd som konsult kanske du, i början, fortsätter med samma kund fast som underkonsult istället. Jag valde [Kvadrat](http://www.kvadrat.se/) och var väldigt nöjd med det. Men annars kan jag rekommendera [Anna Leijon](https://annaleijon.se/) som har en [bra lista på konsultmäklare här](https://annaleijon.se/lista-pa-konsultmaklare-i-stockholm.html).
 
 Och till sist, du kan eventuellt göra [investeraravdraget](http://www.kompred.se/nyttiga-tips/missa-inte-investeraravdraget/) i din privata deklaration efter att du startat aktiebolag.
 
