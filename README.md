@@ -78,7 +78,7 @@ Jag frågade först några banker via telefon och mail (ICA, Avanza, Swedbank). 
 
 ### Danskebank
 
-**Jag valde Danskebank**. Du fyller bara i [deras formulär](https://danskebank.se/sv-se/Foretag/Smaforetag/Pages/Product-packages.aspx) så ringer de upp. Danskebank sköter allt per telefon och det fungerar mycket bra. De bad inte om någon affärsplan eller budget utan litade på mig direkt. De visste också direkt vad det handlade om och de kändes pålitliga. Eftersom jag inte var kund där sedan tidigare så behövde de skicka lite papper till mig med posten först. Men inom en vecka hade jag intyget! Snabbt, enkelt, smidigt och inget meningslöst krångel.
+**Jag valde Danskebank**. Du fyller bara i [deras formulär](https://danskebank.se/foretag/kundservice/kontakta-oss) så ringer de upp. Danskebank sköter allt per telefon och det fungerar mycket bra. De bad inte om någon affärsplan eller budget utan litade på mig direkt. De visste också direkt vad det handlade om och de kändes pålitliga. Eftersom jag inte var kund där sedan tidigare så behövde de skicka lite papper till mig med posten först. Men inom en vecka hade jag intyget! Snabbt, enkelt, smidigt och inget meningslöst krångel.
 
 Jag valde _Danske Business Plus_ för 99 kr/mån. **[Visma eEkonomi](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi) stödjer även Danskebank** på så vis att man kan klistra in kontoutdraget från banken in i [Visma eEkonomi](https://vismaspcs.se/produkter/bokforingsprogram/visma-eekonomi), för att automatiskt skapa bankhändelser. Sedan matchar man dem mot leverantörsfakturor eller verifikationer.
 
